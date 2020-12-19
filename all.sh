@@ -8,3 +8,6 @@ ngrok!!!
 
 wget -O install.sh http://download.bt.cn/install/install-ubuntu_6.0.sh && sudo bash install.sh
 宝塔
+
+wget https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.201.02.zip
+unzip bedrock-server-1.16.201.02.zip
