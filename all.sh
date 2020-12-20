@@ -21,6 +21,9 @@ wget https://getfrp.sh/d/frpc_linux_amd64
 frpc -f c0d9rmwlivb1j3hs:636064
 #mc服务器
 
+screen -S (name) -X quit
+screen杀掉进程
+
 sudo -i
 apt-get install screen
 screen -S mcc
