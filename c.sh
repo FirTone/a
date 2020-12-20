@@ -1,5 +1,5 @@
 sudo -i
-cd ../
+cd /
 apt-get install screen #screen -S (name) -X quit|杀法
 git clone https://github.com/open-dingtalk/pierced.git
 mv pierced ding
